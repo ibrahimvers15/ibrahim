@@ -103,4 +103,11 @@ export const PORTFOLIO_DATA: PortfolioItem[] = [
     imageUrl: 'https://picsum.photos/seed/coffee/600/400',
     description: 'A clean and elegant logo for a modern, minimalist coffee shop.',
   },
+  {
+    id: 9,
+    title: 'Phoenix Gaming Mascot',
+    category: PortfolioCategory.LOGO,
+    imageUrl: '/images/u(1).png',
+    description: 'A warm to cold logo reflecting high enery for my gaminig chanel.',
+  },
 ];
