@@ -38,7 +38,7 @@ export const PERSONAL_INFO = {
 
 // Social Links
 export const SOCIAL_LINKS: SocialLink[] = [
-  { name: 'YouTube', url: 'https://youtube.com', icon: <YoutubeIcon /> },
+  { name: 'U _T EDITOR', url: 'https://www.youtube.com/@UTEDITOR_OFFICIAL', icon: <YoutubeIcon /> },
   { name: 'Behance', url: 'https://behance.net', icon: <BehanceIcon /> },
   { name: 'Dribbble', url: 'https://dribbble.com', icon: <DribbbleIcon /> },
 ];
