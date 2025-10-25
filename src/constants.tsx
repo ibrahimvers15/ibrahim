@@ -105,7 +105,7 @@ export const PORTFOLIO_DATA: PortfolioItem[] = [
   },
   {
     id: 9,
-    title: 'Phoenix Gaming Mascot',
+    title: 'U-T Editor YouTube Channel logo',
     category: PortfolioCategory.LOGO,
     imageUrl: 'images/U(1).png',
     description: 'A warm to cold logo reflecting high enery for my gaminig chanel.',
