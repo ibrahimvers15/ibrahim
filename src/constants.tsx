@@ -49,7 +49,7 @@ export const MailIcon = () => (
                                                                             id: 1,
                                                                                 title: 'video and graphic Logo',
                                                                                     category: PortfolioCategory.LOGO,
-                                                                                        imageUrl: 'V.png',
+                                                                                        imageUrl: 'images/V.png',
                                                                                             description: 'A modern and dynamic logo for a tech startup specializing in AI.',
                                                                                               },
                                                                                                 {
