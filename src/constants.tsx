@@ -47,9 +47,9 @@ export const MailIcon = () => (
                                                                       export const PORTFOLIO_DATA: PortfolioItem[] = [
                                                                         {
                                                                             id: 1,
-                                                                                title: 'Quantum Leap Logo',
+                                                                                title: 'video and graphic Logo',
                                                                                     category: PortfolioCategory.LOGO,
-                                                                                        imageUrl: 'https://picsum.photos/seed/quantum/600/400',
+                                                                                        imageUrl: 'V.png',
                                                                                             description: 'A modern and dynamic logo for a tech startup specializing in AI.',
                                                                                               },
                                                                                                 {
@@ -84,10 +84,10 @@ export const MailIcon = () => (
                                                                                                                                                                                                       },
                                                                                                                                                                                                         {
                                                                                                                                                                                                             id: 6,
-                                                                                                                                                                                                                title: 'Phoenix Gaming Mascot',
+                                                                                                                                                                                                                title: 'Vortex Gamer',
                                                                                                                                                                                                                     category: PortfolioCategory.LOGO,
-                                                                                                                                                                                                                        imageUrl: 'https://picsum.photos/seed/phoenix/600/400',
-                                                                                                                                                                                                                            description: 'An fierce and energetic mascot logo for an e-sports team.',
+                                                                                                                                                                                                                        imageUrl: 'images/V(2).png',
+                                                                                                                                                                                                                            description: 'An fierce and energetic logo for an e-sports team.',
                                                                                                                                                                                                                               },
                                                                                                                                                                                                                                   {
                                                                                                                                                                                                                                       id: 7,
