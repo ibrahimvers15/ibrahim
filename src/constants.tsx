@@ -69,10 +69,10 @@ export const MailIcon = () => (
                                                                                                                                                   },
                                                                                                                                                     {
                                                                                                                                                         id: 4,
-                                                                                                                                                            title: 'Eco Foods Branding',
+                                                                                                                                                            title: 'Eco Branding',
                                                                                                                                                                 category: PortfolioCategory.GRAPHIC,
-                                                                                                                                                                    imageUrl: 'https://picsum.photos/seed/ecofoods/600/400',
-                                                                                                                                                                        description: 'A complete branding package for an organic food company, including logo, packaging, and marketing materials.',
+                                                                                                                                                                    imageUrl: 'images/mygraphic.png',
+                                                                                                                                                                        description: 'A complete branding package for an company, including logo, packaging, and marketing materials.',
                                                                                                                                                                           },
                                                                                                                                                                             {
                                                                                                                                                                                 id: 5,
