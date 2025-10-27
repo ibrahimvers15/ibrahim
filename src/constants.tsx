@@ -57,7 +57,7 @@ export const MailIcon = () => (
                                                                                                         title: 'Corporate Brand Video',
                                                                                                             category: PortfolioCategory.VIDEO,
                                                                                                                 imageUrl: 'images/ironman.png',
-                                                                                                                    videoUrl: 'https://www.youtube.com/shorts/Ykw0A1zj7sM',
+                                                                                                                    videoUrl: 'https://www.youtube.com/embed/Ykw0A1zj7sM',
                                                                                                                         description: 'A promotional video showcasing the values and vision of a leading tech company.',
                                                                                                                           },
                                                                                                                             {
