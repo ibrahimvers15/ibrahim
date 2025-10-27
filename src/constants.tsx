@@ -56,8 +56,8 @@ export const MailIcon = () => (
                                                                                                     id: 2,
                                                                                                         title: 'Corporate Brand Video',
                                                                                                             category: PortfolioCategory.VIDEO,
-                                                                                                                imageUrl: 'https://picsum.photos/seed/corpvideo/600/400',
-                                                                                                                    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+                                                                                                                imageUrl: 'images/ironman.png',
+                                                                                                                    videoUrl: 'https://youtube.com/shorts/Ykw0A1zj7sM?si=xPDK52adK91250PP',
                                                                                                                         description: 'A promotional video showcasing the values and vision of a leading tech company.',
                                                                                                                           },
                                                                                                                             {
